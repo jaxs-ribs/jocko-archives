@@ -1,0 +1,962 @@
+[
+    [
+        " The second reason for a breakdown is what communication engineers call noise in the system.",
+        0.0,
+        4.84
+    ],
+    [
+        " Noise is what interferes with the smooth flow of information.",
+        5.02,
+        7.46
+    ],
+    [
+        " It's destructive power hinges on the fact that senior commanders like any other device",
+        7.82,
+        12.18
+    ],
+    [
+        " for processing information are channels of limited capacity.",
+        12.18,
+        15.96
+    ],
+    [
+        " If they want to deal with more information, they will tend to take longer about it.",
+        16.38,
+        21.3
+    ],
+    [
+        " If they don't take longer, they will make mistakes.",
+        21.8,
+        23.4
+    ],
+    [
+        " Here we are using the term information in a special and perhaps it's most important sense.",
+        23.92,
+        29.44
+    ],
+    [
+        " As the that which induces uncertainty.",
+        30.0,
+        33.36
+    ],
+    [
+        " So that's what information is.",
+        34.22,
+        35.8
+    ],
+    [
+        " Information is that which which reduces uncertainty.",
+        35.94,
+        39.42
+    ],
+    [
+        " Let me expand on this a little.",
+        40.78,
+        42.72
+    ],
+    [
+        " A acquiring knowledge involves the reduction of ignorance through the acquisition of facts,",
+        44.08,
+        48.54
+    ],
+    [
+        " but ignorance is rarely absolute and its reduction rarely total.",
+        48.54,
+        53.06
+    ],
+    [
+        " Doesn't matter.",
+        53.3,
+        53.9
+    ],
+    [
+        " You're not going to know everything.",
+        54.6,
+        55.42
+    ],
+    [
+        " And you're not going to know nothing.",
+        55.96,
+        58.52
+    ],
+    [
+        " Hence, reducing ignorance can be regarded as reducing uncertainty about a given state of affairs.",
+        60.08,
+        65.06
+    ],
+    [
+        " It follows that an unlikely or unexpected fact contains more information.",
+        65.42,
+        68.38
+    ],
+    [
+        " IE reduces more uncertainty than one which is already expected.",
+        69.2,
+        72.04
+    ],
+    [
+        " He's going to go into that hard.",
+        72.44,
+        74.18
+    ],
+    [
+        " That what I just said, it follows that an unlikely or unexpected fact contains more information.",
+        75.02,
+        81.0
+    ],
+    [
+        " IE reduces more uncertainty than one which is already expected.",
+        81.82,
+        85.6
+    ],
+    [
+        " We already expected it.",
+        86.04,
+        87.32
+    ],
+    [
+        " Well, it doesn't really help me that much.",
+        87.36,
+        88.6
+    ],
+    [
+        " But an unexpected fact is less readily absorbed than one which was expected.",
+        89.26,
+        94.46
+    ],
+    [
+        " Well, I wasn't expecting this to happen.",
+        94.88,
+        97.64
+    ],
+    [
+        " So I'm going to kind of reject it.",
+        97.64,
+        98.84
+    ],
+    [
+        " If this is less than crystal clear, consider the following example.",
+        99.92,
+        103.84
+    ],
+    [
+        " Cast an asutable, suitable military context.",
+        104.2,
+        107.26
+    ],
+    [
+        " The message in this case consists of an intelligence report which states, quote,",
+        107.7,
+        112.3
+    ],
+    [
+        " enemy preparing for counterattack, attack, and quote,",
+        112.5,
+        116.24
+    ],
+    [
+        " it goes on to detail strength, disposition, date, and likely sector for attack.",
+        116.24,
+        121.4
+    ],
+    [
+        " Now, this message factually so simple contains a amount of information which differ greatly from commander to commander.",
+        122.12,
+        129.44
+    ],
+    [
+        " To general A, who anticipated such a counterattack, it conveys very little.",
+        130.0,
+        135.34
+    ],
+    [
+        " It merely confirms a hypothesis which he already held.",
+        135.56,
+        138.68
+    ],
+    [
+        " In fact, since he had already made extensive preparation for a counterattack,",
+        139.34,
+        143.02
+    ],
+    [
+        " the intelligence report when it came was largely redundant.",
+        143.36,
+        145.88
+    ],
+    [
+        " So that's general A. Hey, I was expecting this cool.",
+        146.38,
+        148.82
+    ],
+    [
+        " Got it.",
+        149.12,
+        150.48
+    ],
+    [
+        " In the case of general B, however, the same message was quite unexpected.",
+        150.48,
+        154.82
+    ],
+    [
+        " So little had he anticipated an enemy counterattack that the news was charged with information.",
+        155.04,
+        160.42
+    ],
+    [
+        " It reduced a great deal of ignorance and uncertainty.",
+        160.66,
+        163.54
+    ],
+    [
+        " It gave him plenty to occupy his mind and much to do.",
+        164.12,
+        168.4
+    ],
+    [
+        " And I'm going to dive into that part right there because this is really important.",
+        168.92,
+        173.8
+    ],
+    [
+        " Finally, we have general C for whom the message was so totally unexpected that he chose to ignore it with disastrous results.",
+        174.64,
+        182.74
+    ],
+    [
+        " It conflicted with his preconceptions.",
+        183.14,
+        185.06
+    ],
+    [
+        " It clashed with his wishes.",
+        185.4,
+        186.54
+    ],
+    [
+        " It emanated so he thought from an unreliable source.",
+        187.12,
+        190.2
+    ],
+    [
+        " Since his mind was closed to its reception, he found plenty of reasons for refusing to believe it,",
+        191.06,
+        197.22
+    ],
+    [
+        " like British generals after the Battle of Cambrai or American generals before the German counterattack.",
+        197.5,
+        203.32
+    ],
+    [
+        " Offensive in the Ardens of 1944, he ignored it at his cost.",
+        203.8,
+        208.2
+    ],
+    [
+        " Its information content was just too high for his channel of limited capacity.",
+        208.56,
+        215.1
+    ],
+    [
+        " And so those three examples.",
+        215.68,
+        219.24
+    ],
+    [
+        " And when I first read this, I thought general A, it doesn't contain much information because he was already expecting it.",
+        219.74,
+        228.26
+    ],
+    [
+        " General B got a lot of information from it because he wasn't expecting it.",
+        228.48,
+        231.82
+    ],
+    [
+        " And it seems like general B might be in a better situation because he got more information, but that's not true.",
+        231.82,
+        236.9
+    ],
+    [
+        " And it all boils down to this last thing.",
+        237.44,
+        239.24
+    ],
+    [
+        " Its information content was too high for his limited channel of capacity, his limited channel of limited capacity.",
+        239.9,
+        246.64
+    ],
+    [
+        " I think an advantage that I have and that I try and teach other people",
+        247.18,
+        255.88
+    ],
+    [
+        " is to have an open mind and to not, when new information arises, to absorb it and accept it and be like,",
+        257.04,
+        266.18
+    ],
+    [
+        " okay, this is new information.",
+        266.26,
+        267.36
+    ],
+    [
+        " I take it with a grain of salt, of course, but I'm not,",
+        267.78,
+        270.44
+    ],
+    [
+        " and go even further than that.",
+        271.42,
+        274.64
+    ],
+    [
+        " It's not just that my mind is open.",
+        274.76,
+        275.76
+    ],
+    [
+        " It's that I'm actually trying to anticipate what's going on.",
+        275.94,
+        280.2
+    ],
+    [
+        " I'm actually thinking, well, what are they probably going to do?",
+        281.22,
+        283.4
+    ],
+    [
+        " You know, they're probably going to do this.",
+        283.4,
+        284.54
+    ],
+    [
+        " And I don't dig in on that.",
+        284.82,
+        286.6
+    ],
+    [
+        " You know, the enemy could probably attack from the west, but I'm going to know the enemy is going to attack.",
+        287.24,
+        291.06
+    ],
+    [
+        " The enemy is going to probably attack from the west, but they could also come from the south.",
+        291.36,
+        294.34
+    ],
+    [
+        " And you know what they could come from these north, doesn't matter.",
+        294.66,
+        296.84
+    ],
+    [
+        " I think that when you said the word anticipation was the peace as I'm hearing you talk about it,",
+        297.6,
+        305.74
+    ],
+    [
+        " you hear those three generals and you think, oh, B's the right guy.",
+        305.76,
+        308.46
+    ],
+    [
+        " No, no, no, no, no, no, I know.",
+        309.52,
+        312.18
+    ],
+    [
+        " Actually, I'm trying to explain the logic.",
+        312.22,
+        314.94
+    ],
+    [
+        " It seems at face of value as an unfolded in my head.",
+        314.94,
+        318.42
+    ],
+    [
+        " Yeah.",
+        318.68,
+        318.98
+    ],
+    [
+        " Like, oh, I could see people go, oh, B's the best example because he got the most information.",
+        319.2,
+        323.8
+    ],
+    [
+        " Oh, man, this changes everything.",
+        323.8,
+        325.7
+    ],
+    [
+        " Holy cow.",
+        325.94,
+        326.5
+    ],
+    [
+        " And clearly sees the worst because he's like, I can't accept that in my brain.",
+        326.78,
+        329.72
+    ],
+    [
+        " So we're not doing that.",
+        329.8,
+        330.46
+    ],
+    [
+        " I don't acknowledge it.",
+        330.5,
+        331.3
+    ],
+    [
+        " And to his falling, like it's going to, the whole team is going to get wiped out.",
+        331.54,
+        333.84
+    ],
+    [
+        " But when you said anticipation, because I think of it as you've, as we talk about it, as we teach it,",
+        334.16,
+        339.3
+    ],
+    [
+        " and as you've discussed it, which is, I'm going to do these things.",
+        339.3,
+        342.24
+    ],
+    [
+        " I'm going to make these moves.",
+        342.38,
+        342.96
+    ],
+    [
+        " I'm going to try to create a situation that unfolds a certain way.",
+        343.1,
+        346.08
+    ],
+    [
+        " But I know, I know it doesn't go the way that I expect, which is I am anticipating",
+        346.58,
+        353.64
+    ],
+    [
+        " a bunch of other potential options.",
+        353.64,
+        356.12
+    ],
+    [
+        " Now, I don't necessarily know which one it's going to be.",
+        356.22,
+        358.06
+    ],
+    [
+        " But when you come back and say, it didn't go, let me say it differently, it went this way",
+        358.46,
+        363.48
+    ],
+    [
+        " and no matter what this way is, you go, okay, I can see that.",
+        363.48,
+        366.5
+    ],
+    [
+        " I can see how our moves created this outcome.",
+        366.74,
+        368.62
+    ],
+    [
+        " And maybe not even what you want, or maybe not even what you expected.",
+        369.44,
+        373.16
+    ],
+    [
+        " But the other ones aren't unexpected, which makes it so much easier to go, okay, cool.",
+        373.9,
+        379.38
+    ],
+    [
+        " Now I've got the information, here's the adjustments we're going to make, or a, we'll continue down the path of it's the way we want it.",
+        379.68,
+        384.44
+    ],
+    [
+        " But the anticipation that the outcome is not what you want.",
+        384.52,
+        387.02
+    ],
+    [
+        " That word, that's the piece for me that resonates, which is the best situation to be in, is,",
+        387.74,
+        392.62
+    ],
+    [
+        " oh, it was different than I wanted, even a little different than I expected.",
+        393.02,
+        395.94
+    ],
+    [
+        " And I'm not surprised by that.",
+        396.18,
+        397.5
+    ],
+    [
+        " I don't get caught mentally off balance very often, because you don't predetermine the outcome.",
+        398.98,
+        404.38
+    ],
+    [
+        " And I don't lean too hard.",
+        404.68,
+        406.06
+    ],
+    [
+        " I'm not saying I don't lean, but I don't, I don't lean so much that when that resistance is there, I just fall in my face.",
+        406.06,
+        413.46
+    ],
+    [
+        " Yeah.",
+        413.84,
+        413.94
+    ],
+    [
+        " And I, I, I steal a, a comma that you made from, from your second platoon commander over and over again.",
+        414.42,
+        420.88
+    ],
+    [
+        " The context he was using it was someone on his, on your team doing something wasn't really smart.",
+        420.96,
+        425.22
+    ],
+    [
+        " And it's just a simple saying of, you got to expect these things to happen.",
+        425.46,
+        428.86
+    ],
+    [
+        " But I overlay that on to everything I can think of, which is, oh, that didn't really go as expected.",
+        429.04,
+        434.26
+    ],
+    [
+        " But I'm not that surprised by it.",
+        434.6,
+        436.32
+    ],
+    [
+        " Like, yeah, I kind of expect these things to happen.",
+        436.46,
+        438.38
+    ],
+    [
+        " And just the idea of saying, you got to expect those things to happen.",
+        438.44,
+        442.12
+    ],
+    [
+        " Other people thinking, holy cow, this is a level 10 emergency.",
+        442.2,
+        445.72
+    ],
+    [
+        " This is a unsolvable tragedy.",
+        446.2,
+        447.82
+    ],
+    [
+        " He's like, no, I, I kind of am used to these type of things going the way that people don't expect.",
+        447.92,
+        452.5
+    ],
+    [
+        " And we can actually solve this.",
+        452.7,
+        453.82
+    ],
+    [
+        " I can absorb it and make some changes.",
+        453.82,
+        455.22
+    ],
+    [
+        " No factor.",
+        455.54,
+        456.16
+    ],
+    [
+        " Yeah.",
+        456.46,
+        456.56
+    ],
+    [
+        " Yeah.",
+        457.16,
+        457.28
+    ],
+    [
+        " Don't over commit your brain over commit the outcome.",
+        458.0,
+        461.74
+    ],
+    [
+        " The, the other thing about this example is with this mechanical like dissection he's doing of all this stuff.",
+        462.28,
+        469.2
+    ],
+    [
+        " There's, he talks a lot about the capacity.",
+        470.04,
+        472.18
+    ],
+    [
+        " And with general A, you've got very little capacity left over from what you were expecting, right?",
+        472.64,
+        481.34
+    ],
+    [
+        " So you've got your expectation of what's going to happen.",
+        481.34,
+        483.56
+    ],
+    [
+        " And you've got some capacity left over to, to dedicate to what's actually happening.",
+        483.7,
+        489.96
+    ],
+    [
+        " Guy beat or the general B, let's say, he, it takes him by surprise.",
+        490.7,
+        496.96
+    ],
+    [
+        " So now he has to do so much more back in work.",
+        496.96,
+        500.86
+    ],
+    [
+        " The general A is already done and he's got all this free capacity.",
+        501.0,
+        504.18
+    ],
+    [
+        " Then now he can dedicate to what's actually happening.",
+        504.24,
+        507.02
+    ],
+    [
+        " And the third guy has got so little, you know, that he just, he's, he's, he chooses to willfully ignore what's happening rather than take on the challenge of, you know,",
+        507.02,
+        519.0
+    ],
+    [
+        " Yeah.",
+        519.4,
+        519.56
+    ],
+    [
+        " If you did one of those games where you have to look at something for a short period of time and remember as much as you can.",
+        519.56,
+        525.88
+    ],
+    [
+        " If I said, okay, Dave, I'm going to show you a car in this next picture.",
+        526.0,
+        529.7
+    ],
+    [
+        " It's a Ford Bronco.",
+        530.06,
+        531.84
+    ],
+    [
+        " And I want you to remember as much about as you could.",
+        532.18,
+        534.04
+    ],
+    [
+        " You'd be like, okay, here's the color. Here's the light.",
+        534.24,
+        536.32
+    ],
+    [
+        " But if I said, hey, Kerry, I want you to go and I'm going to show you a picture.",
+        536.32,
+        539.54
+    ],
+    [
+        " Tell me as much about it as you can.",
+        539.94,
+        541.74
+    ],
+    [
+        " You, you'd be like get half a quarter of the information because you just don't have that much.",
+        542.12,
+        546.54
+    ],
+    [
+        " Your capacity's already taken.",
+        546.7,
+        549.32
+    ],
+    [
+        " It's overflowing.",
+        549.58,
+        550.84
+    ],
+    [
+        " Right.",
+        551.08,
+        551.22
+    ],
+    [
+        " With stuff.",
+        551.52,
+        551.86
+    ],
+    [
+        " Trying to make sense of the color.",
+        552.0,
+        553.5
+    ],
+    [
+        " Right.",
+        553.8,
+        553.9
+    ],
+    [
+        " You're trying to figure all this out and you're just overwhelmed.",
+        554.08,
+        556.38
+    ],
+    [
+        " So that's what we're trying not to do.",
+        556.62,
+        558.7
+    ],
+    [
+        " Right.",
+        558.92,
+        559.08
+    ],
+    [
+        " And I think also too, just from a leadership standpoint, you thinking about people that aren't three versions of people out there.",
+        559.5,
+        565.26
+    ],
+    [
+        " There's seven billion versions of that.",
+        565.42,
+        567.16
+    ],
+    [
+        " So this is a, as this is a dial across all those spectrums and certainly you can categorize that.",
+        567.32,
+        572.84
+    ],
+    [
+        " And those examples are good examples.",
+        573.08,
+        574.54
+    ],
+    [
+        " But even inside that are you don't just get three.",
+        574.54,
+        577.0
+    ],
+    [
+        " Yeah.",
+        577.36,
+        577.5
+    ],
+    [
+        " If you got a team of 26, you're not going to bend them into three categories and presume they sit in those bins.",
+        577.58,
+        582.32
+    ],
+    [
+        " I bet you that you could probably break it down into weight classes though.",
+        582.8,
+        587.52
+    ],
+    [
+        " And not end up with seven billion, but end up with like nine weight classes.",
+        587.82,
+        592.18
+    ],
+    [
+        " You know, and it's really just there's a spectrum inside there.",
+        592.46,
+        595.12
+    ],
+    [
+        " Yeah, for sure.",
+        595.26,
+        595.72
+    ],
+    [
+        " You're between you know, 170 pounds and 185 pounds.",
+        595.86,
+        600.38
+    ],
+    [
+        " Like we know what kind of, we know you're like, you know, you're like lean in really hard.",
+        600.48,
+        605.06
+    ],
+    [
+        " We know where you're going to know.",
+        605.22,
+        606.32
+    ],
+    [
+        " This continues one particularly hazardous aspect of the relationship between information and decision processes.",
+        607.24,
+        615.6
+    ],
+    [
+        " Concerns that we've the revising of decisions.",
+        616.24,
+        619.08
+    ],
+    [
+        " It seems that having gradually and perhaps painfully accumulated information in support of a decision,",
+        620.32,
+        627.26
+    ],
+    [
+        " people become progressively more low to accept contrary evidence.",
+        627.72,
+        633.08
+    ],
+    [
+        " So this is everything we're just talking about.",
+        633.82,
+        636.06
+    ],
+    [
+        " You make a decision.",
+        636.46,
+        637.54
+    ],
+    [
+        " You've got some information.",
+        637.66,
+        638.62
+    ],
+    [
+        " And now we're not want to accept anything different as ed's words and his colleagues have shown the greater the impact of new information.",
+        639.1,
+        646.28
+    ],
+    [
+        " The more strenuously it will be resisted, which is actually crazy.",
+        646.34,
+        649.88
+    ],
+    [
+        " It's actually crazy.",
+        650.22,
+        651.68
+    ],
+    [
+        " Dave's like, I'm head north.",
+        651.82,
+        652.76
+    ],
+    [
+        " I'm a head north.",
+        653.24,
+        653.96
+    ],
+    [
+        " We're head north right now.",
+        654.12,
+        655.14
+    ],
+    [
+        " We made the call and I'm like, Hey, actually, brothers like enemy up there.",
+        655.32,
+        658.38
+    ],
+    [
+        " And you're like, we already made the call.",
+        658.54,
+        660.2
+    ],
+    [
+        " Like, are you sure?",
+        660.34,
+        662.0
+    ],
+    [
+        " Total resistance.",
+        662.64,
+        663.44
+    ],
+    [
+        " There are several reasons for this dangerous conservatism.",
+        664.1,
+        667.32
+    ],
+    [
+        " New information has by definition high informational content.",
+        667.62,
+        670.88
+    ],
+    [
+        " And therefore, firstly, it will require greater processing capacity.",
+        670.88,
+        674.96
+    ],
+    [
+        " Secondly, it threatens a return to an earlier state of gnawing uncertainty.",
+        675.5,
+        679.54
+    ],
+    [
+        " And thirdly, it confronts the decision maker with the nasty thought that he may have been wrong.",
+        679.96,
+        684.3
+    ],
+    [
+        " No wonder he tends to turn a blind eye.",
+        686.14,
+        689.06
+    ],
+    [
+        " I mean, I talk about this in one way or another all the time, all the time.",
+        689.42,
+        694.3
+    ],
+    [
+        " Isn't it scary to think I'd rather just be wrong than go back to just being uncertain?",
+        694.96,
+        699.46
+    ],
+    [
+        " Look, we're going north.",
+        700.68,
+        701.9
+    ],
+    [
+        " Bro, there's there's enemy up there.",
+        702.18,
+        703.58
+    ],
+    [
+        " Yeah, but at least I know where I'm going.",
+        703.72,
+        705.4
+    ],
+    [
+        " Freak disaster dot com.",
+        706.02,
+        709.74
+    ]
+]
